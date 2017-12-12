@@ -1,0 +1,7 @@
+Ez a szkript a teveclub.hu-n található tevéd etetésére szolgál.
+Képes megetetni, megitatni, tanítani és tippelni az egyszámjátékon.
+A tippelést képes végrehajtani random illetve az előző évek statisztikáiból kiválasztott legvalószínűbbje alapján.
+
+Add meg az objektum létrehozásánál a main-ban e felhasználó nevedet és a jelszavadat.
+
+Ubuntura lett írva, ezért dob fel notificationokat is.
